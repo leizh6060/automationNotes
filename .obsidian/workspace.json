@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai-200/Connect and Consume Azure Services (20–25%).md",
+                "file": "2026-08-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connect and Consume Azure Services (20–25%)"
+              "title": "2026-08-20"
             }
           }
         ],
@@ -226,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4af35bc4386993f6",
+  "active": "85fc868dbe4b3639",
   "lastOpenFiles": [
-    "Ai-200/Highlevel.md",
     "Ai-200/Connect and Consume Azure Services (20–25%).md",
+    "2026-08-20.md",
+    "Ai-200/Highlevel.md",
     "01-Daily/README.md",
     "Ai-200",
     "aaa.md",
