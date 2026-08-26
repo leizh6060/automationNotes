@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-26.md",
+                "file": "folderinautomationnotes/automationnotes/Azure Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-26"
+              "title": "Azure Network"
             }
           }
         ]
@@ -197,10 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d26cb5e16b5ed931",
+  "active": "4af35bc4386993f6",
   "lastOpenFiles": [
-    "Pasted image 20260825093252.png",
+    "folderinautomationnotes/automationnotes/01-Daily/README.md",
+    "Ai-200/Connect and Consume Azure Services (20–25%).md",
     "2026-08-26.md",
+    "Pasted image 20260825093252.png",
     "01-Daily/README.md",
     "Ai-200/Highlevel.md",
     "folderinautomationnotes/automationnotes/Azure Network.md",
@@ -209,7 +211,6 @@
     "2026-08-23.md",
     "2026-08-21.md",
     "2026-08-20.md",
-    "Ai-200/Connect and Consume Azure Services (20–25%).md",
     "Ai-200",
     "aaa.md",
     "folderinautomationnotes/automationnotes/2026-08-13.md",
@@ -219,7 +220,6 @@
     "folderinautomationnotes/automationnotes/Untitled.canvas",
     "folderinautomationnotes/automationnotes/Untitled 2.canvas",
     "folderinautomationnotes/automationnotes/Untitled 1.canvas",
-    "folderinautomationnotes/automationnotes/01-Daily/README.md",
     "folderinautomationnotes/automationnotes/01-Daily",
     "automationnotes/README.md",
     "Untitled 2.canvas",
