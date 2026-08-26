@@ -11,14 +11,14 @@
             "id": "d26cb5e16b5ed931",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "folderinautomationnotes/automationnotes",
-                "bFile": "folderinautomationnotes/automationnotes",
-                "aRef": ""
+                "file": "folderinautomationnotes/AZNetwork.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: automationnotes  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "AZNetwork"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "d26cb5e16b5ed931",
   "lastOpenFiles": [
+    "folderinautomationnotes/automationnotes/Welcome.md",
+    "folderinautomationnotes/AZNetwork.md",
     "folderinautomationnotes/automationnotes/Azure Network.md",
     "folderinautomationnotes/automationnotes/01-Daily/README.md",
     "Ai-200/Connect and Consume Azure Services (20–25%).md",
@@ -216,7 +218,6 @@
     "folderinautomationnotes/automationnotes/2026-08-13.md",
     "2026-08-13.md",
     "folderinautomationnotes/automationnotes/automationnotes",
-    "folderinautomationnotes/automationnotes/Welcome.md",
     "folderinautomationnotes/automationnotes/Untitled.canvas",
     "folderinautomationnotes/automationnotes/Untitled 2.canvas",
     "folderinautomationnotes/automationnotes/Untitled 1.canvas",
