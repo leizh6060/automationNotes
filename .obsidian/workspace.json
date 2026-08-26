@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automationnotes/Azure Network.md",
+                "file": "folderinautomationnotes/automationnotes/Azure Network.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85fc868dbe4b3639",
+  "active": "4af35bc4386993f6",
   "lastOpenFiles": [
     "2026-08-25.md",
     "Pasted image 20260825093252.png",
@@ -239,16 +239,16 @@
     "01-Daily/README.md",
     "Ai-200",
     "aaa.md",
-    "automationnotes/2026-08-13.md",
+    "folderinautomationnotes/automationnotes/2026-08-13.md",
     "2026-08-13.md",
-    "automationnotes/automationnotes",
-    "automationnotes/Azure Network.md",
-    "automationnotes/Welcome.md",
-    "automationnotes/Untitled.canvas",
-    "automationnotes/Untitled 2.canvas",
-    "automationnotes/Untitled 1.canvas",
-    "automationnotes/01-Daily/README.md",
-    "automationnotes/01-Daily",
+    "folderinautomationnotes/automationnotes/automationnotes",
+    "folderinautomationnotes/automationnotes/Azure Network.md",
+    "folderinautomationnotes/automationnotes/Welcome.md",
+    "folderinautomationnotes/automationnotes/Untitled.canvas",
+    "folderinautomationnotes/automationnotes/Untitled 2.canvas",
+    "folderinautomationnotes/automationnotes/Untitled 1.canvas",
+    "folderinautomationnotes/automationnotes/01-Daily/README.md",
+    "folderinautomationnotes/automationnotes/01-Daily",
     "automationnotes/README.md",
     "Untitled 2.canvas",
     "Welcome.md",
