@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "folderinautomationnotes/AZNetwork.md",
+                "file": "folderinautomationnotes/Azure Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AZNetwork"
+              "title": "Azure Storage"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "d26cb5e16b5ed931",
   "lastOpenFiles": [
-    "folderinautomationnotes/automationnotes/Welcome.md",
+    "folderinautomationnotes/Azure Governance.md",
+    "folderinautomationnotes/Azure Storage.md",
+    "folderinautomationnotes/Azure monitoring.md",
+    "folderinautomationnotes/Azure Security.md",
+    "azure_security_architecture.png",
     "folderinautomationnotes/AZNetwork.md",
+    "folderinautomationnotes/automationnotes/Welcome.md",
     "folderinautomationnotes/automationnotes/Azure Network.md",
     "folderinautomationnotes/automationnotes/01-Daily/README.md",
     "Ai-200/Connect and Consume Azure Services (20–25%).md",
