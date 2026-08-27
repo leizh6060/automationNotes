@@ -26,11 +26,12 @@ Defender for Cloud can automatically deploy:
 
 Core Governance Services // from google
 
-|Service|Primary Purpose|Key Use Case|
-|---|---|---|
-|**Azure Management Groups**|Hierarchical alignment of subscriptions.|Applying global policies or access rights across multiple subscriptions.|
-|**Azure Policy**|Real-time evaluation and enforcement of standards.|Restricting resource deployment to allowed regions or blocking public IPs.|
-|**Microsoft Purview**|Data governance, risk, and compliance management.|Discovering, classifying, and tracking the lineage of sensitive data assets.|
-|**Resource Graph**|High-performance resource exploration and querying.|Auditing resource compliance status at scale across multiple tenants.|
-|**Microsoft Cost Management**|Financial governance and spending visibility.|Setting up organizational budgets and unexpected-spend alerts.|
-|**Resource Locks**|Prevent accidental deletion or modifications.|Protecting mission-critical express routes or production databases.|
+| Service                       | Primary Purpose                                     | Key Use Case                                                                 |     |
+| ----------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------- | --- |
+| **Azure Management Groups**   | Hierarchical alignment of subscriptions.            | Applying global policies or access rights across multiple subscriptions.     |     |
+| **Azure Policy**              | Real-time evaluation and enforcement of standards.  | Restricting resource deployment to allowed regions or blocking public IPs.   |     |
+| **Microsoft Purview**         | Data governance, risk, and compliance management.   | Discovering, classifying, and tracking the lineage of sensitive data assets. |     |
+| **Resource Graph**            | High-performance resource exploration and querying. | Auditing resource compliance status at scale across multiple tenants.        |     |
+| **Microsoft Cost Management** | Financial governance and spending visibility.       | Setting up organizational budgets and unexpected-spend alerts.               |     |
+| **Resource Locks**            | Prevent accidental deletion or modifications.       | Protecting mission-critical express routes or production databases.          |     |
+Test for Daniel
