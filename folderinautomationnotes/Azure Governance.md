@@ -34,4 +34,3 @@ Core Governance Services // from google
 | **Resource Graph**            | High-performance resource exploration and querying. | Auditing resource compliance status at scale across multiple tenants.        |     |
 | **Microsoft Cost Management** | Financial governance and spending visibility.       | Setting up organizational budgets and unexpected-spend alerts.               |     |
 | **Resource Locks**            | Prevent accidental deletion or modifications.       | Protecting mission-critical express routes or production databases.          |     |
-Test for Daniel
