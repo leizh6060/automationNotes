@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-10.md",
+                "file": "2026-09-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-10"
+              "title": "2026-09-13"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "792b79869942d13e",
   "lastOpenFiles": [
-    "folderinautomationnotes/AZNetwork.md",
     "2026-09-10.md",
+    "2026-09-13.md",
+    "folderinautomationnotes/AZNetwork.md",
     "Pasted image 20260909175303.png",
     "Pasted image 20260909174645.png",
     "Pasted image 20260909172724.png",
@@ -249,7 +250,6 @@
     "Untitled 1.canvas",
     "01-Daily",
     "Untitled.canvas",
-    "07-Architecture/system-designs",
-    "07-Architecture/README.md"
+    "07-Architecture/system-designs"
   ]
 }
